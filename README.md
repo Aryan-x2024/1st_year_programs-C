@@ -1,2 +1,2 @@
-# PPS_1st
-contains the basic programming i've done in my 1st sem
+# First-Year Projects
+This repository contains my first-year programming projects and assignments, showcasing my learning progress and coding skills.
